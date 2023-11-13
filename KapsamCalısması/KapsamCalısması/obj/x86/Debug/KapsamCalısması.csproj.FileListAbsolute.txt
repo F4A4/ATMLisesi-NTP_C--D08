@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\bin\Debug\KapsamCalısması.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\bin\Debug\KapsamCalısması.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\KapsamCalısması\KapsamCalısması\obj\x86\Debug\KapsamCalısması.pdb

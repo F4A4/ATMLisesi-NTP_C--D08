@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\Siniflar\Siniflar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\Siniflar\Siniflar\obj\x86\Debug\Siniflar.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\Siniflar\Siniflar\obj\x86\Debug\Siniflar.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\Siniflar\Siniflar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\8.GÜN\Siniflar\Siniflar\obj\x86\Debug\GenerateResource.write.1.tlog
